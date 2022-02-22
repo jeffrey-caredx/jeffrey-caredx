@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffrey-caredx
-- 👀 I’m in the CareDx R&D CTT Department
+- 👀 I’m in the CareDx R&D Cell Transplant Therapy (CTT) Department
 - 🌱 I’m a Staff Bioinformaticist
-- 💞️ I’m looking to scale processes
+- 💞️ I’m looking to scale pipelines, processes and streamline efforts.
 - 📫 How to reach me jlong@caredx.com
 
 <!---
